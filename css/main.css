@@ -308,17 +308,17 @@ body {
     .sub .button {
         width: 550px;
     }
-}
-.sub .button input {
-    width: 90%;
-    height: 50px;
-    padding-left: 25px;
-    font-size: 12px;
-}
-.sub .button button {
-    width: 35%;
-    height: 50px;
-    font-size: 13px;
+    .sub .button input {
+        width: 90%;
+        height: 50px;
+        padding-left: 25px;
+        font-size: 12px;
+    }
+    .sub .button button {
+        width: 35%;
+        height: 50px;
+        font-size: 13px;
+    }
 }
 /* end subscription section */
 /* start footer section */
